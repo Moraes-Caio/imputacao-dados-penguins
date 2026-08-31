@@ -79,6 +79,22 @@ Machos são maiores, mas um macho Adelie pesa como uma fêmea Gentoo. Misturar e
 
 ---
 
+## Estrutura do repositório
+
+notebooks/ → notebook do Google Colab com toda a etapa de imputação dos dados
+data/raw/ → dataset original em .csv
+data/processed/ → dataset tratado em .csv
+
+---
+
+## Como executar
+
+1. Abra `notebooks/imputacao_penguins.ipynb` no Google Colab ou Jupyter
+2. Rode as células na ordem
+3. O notebook gera os dois CSVs da pasta `data/`
+
+---
+
 ## Autores
 
-Caio de Moraes — [GitHub](https://github.com/moraes-caio) · [LinkedIn](https://linkedin.com/in/moraes-caio)
+Caio de Moraes — [LinkedIn](https://linkedin.com/in/moraes-caio)
