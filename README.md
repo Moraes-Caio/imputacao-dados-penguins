@@ -87,7 +87,7 @@ data/processed/ → dataset tratado em .csv
 
 ---
 
-## Como executar
+## Como reproduzir
 
 1. Abra `notebooks/imputacao_penguins.ipynb` no Google Colab ou Jupyter
 2. Rode as células na ordem
