@@ -73,9 +73,9 @@ Machos são maiores, mas um macho Adelie pesa como uma fêmea Gentoo. Misturar e
 
 ---
 
-## Stack
+## Ferramentas
 
-`Python` · `pandas` · `numpy` · `scikit-learn` (KNeighborsClassifier, KNeighborsRegressor, MinMaxScaler, train_test_split) · `seaborn` · `matplotlib` · Google Colab
+Python · pandas · numpy · scikit-learn (KNeighborsClassifier, KNeighborsRegressor, MinMaxScaler, train_test_split) · seaborn` · matplotlib · Google Colab
 
 ---
 
