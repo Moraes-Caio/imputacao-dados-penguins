@@ -27,7 +27,7 @@ A ordem importa: cada etapa usa os valores recuperados na anterior.
 
 ---
 
-## Como cada etapa foi resolvida
+## Pipeline do projeto
 
 ### Limpeza prévia
 
